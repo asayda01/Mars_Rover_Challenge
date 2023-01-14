@@ -7,5 +7,5 @@ export class Plateau {
 };
 
 export function validator_Plateau (valid_x_Plat : number ,valid_y_Plat : number) : boolean {
-    return (!(valid_x_Plat < 0 || valid_y_Plat < 0));
+    return (!(valid_x_Plat <= 0 || valid_y_Plat <= 0));
 };
