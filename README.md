@@ -2,7 +2,7 @@
 ## Introduction
 
 ***This repository is created for a TypeScript project using Jest for testing. 
-The project aims to find an optimal solution for Mars Rovers moving on a Plateau in Mars (the Red Planet).***
+The project aims to create a program to move rovers on a Plateau in Mars (the Red Planet).***
 
 
 ![1_draft_plan_7](https://user-images.githubusercontent.com/56931334/212541790-2c15af10-1660-48e3-8cef-214620211474.jpg)
