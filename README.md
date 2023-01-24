@@ -129,27 +129,17 @@ This parts provides the instructions to create your own Mars Rover Challenge.
 
 To create and clone this task :
 
-1 - Click "Fork this repository"
+1 - Click "Fork this repository".
 
+2 - Clone down your this repository to your computer.
 
-2 - Clone down your this repository to your computer
+3 - Navigate to the directory on your command line.
 
-3 - Navigate to the directory on your command line
+4 - Install `npm install`.
 
-4 - Install `npm install`
+4 - Install the dependencies in the file package.json :
 
-4 - Install the dependencies given below :
-
-```
-"devDependencies": 
-    {
-    "@types/jest": "^29.2.5",
-    "jest": "^29.3.1",
-    "nodemon": "^2.0.20",
-    "ts-jest": "^29.0.5",
-    "typescript": "^4.9.4"
-    }
-```
+https://github.com/asayda01/Mars_Rover_Challenge/blob/main/package.json
 
 5 - Run `npm test` to run the tests
 
